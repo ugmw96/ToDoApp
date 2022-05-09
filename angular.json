@@ -27,7 +27,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "/home/gayan/Documents/Application/spring-tool-suite-4-4.14.1.RELEASE-e4.23.0-linux.gtk.x86_64/Angular Projects/ToDoApp/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": []
           },

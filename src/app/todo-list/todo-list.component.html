@@ -1,0 +1,6 @@
+<ul class="list-group">
+    <li class="list-group-item"
+        *ngFor="let todos of todoList;let i=index">{{todos}}
+    <button class="btn btn-primary" (click)="onRemove(i)">Remove</button>
+    </li>
+</ul>
